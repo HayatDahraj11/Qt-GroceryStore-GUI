@@ -45,6 +45,10 @@ In addition to the core functionalities mentioned above, Qt Storefront incorpora
 
 Contributions and feedback are welcome! Whether you're interested in adding new features, fixing bugs, or improving the user interface, your contributions will be highly appreciated.
 
-**License**
-
-This project is open-source and available under the [MIT License](https://chat.openai.com/c/link-to-your-license-file).
+**Snapshots Of UI**
+![Capture22](https://github.com/HayatDahraj11/Qt-GroceryStore-GUI/assets/99029950/48e1d25d-7dd8-4987-abc0-e3282cfc46f6)
+![OOP_GUI 9_12_2023 10_18_57 PM](https://github.com/HayatDahraj11/Qt-GroceryStore-GUI/assets/99029950/7222ecfb-a125-4896-aef9-f60210884bfa)
+![Capture33](https://github.com/HayatDahraj11/Qt-GroceryStore-GUI/assets/99029950/4eb1880e-d618-426d-b9a0-9b22f2b3ab26)
+![OOP_GUI 9_12_2023 10_19_34 PM](https://github.com/HayatDahraj11/Qt-GroceryStore-GUI/assets/99029950/2e298420-b8f5-4310-8622-7a49498ce454)
+![Form 9_12_2023 10_15_37 PM](https://github.com/HayatDahraj11/Qt-GroceryStore-GUI/assets/99029950/b116cb3a-f6b5-4d83-aa89-8c8139dd052f)
+![Capture](https://github.com/HayatDahraj11/Qt-GroceryStore-GUI/assets/99029950/d9ac9392-f26c-4880-95df-d2984285ffee)
